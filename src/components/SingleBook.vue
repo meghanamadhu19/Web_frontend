@@ -5,6 +5,10 @@
 
                         <h1>{{product.productname}}</h1>
                         <h2> Price : {{product.price}}</h2>
+                        <h2> Exp_date : {{product.Exp_date}}</h2>
+                        <h2> Quantity Available : {{product.stock_available}}</h2>
+                        <h2> In Stock : {{product.In_stock}}</h2>
+
                        
                         
                         
